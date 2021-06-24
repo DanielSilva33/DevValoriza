@@ -21,9 +21,6 @@ class Tag {
             this.id = uuid();
         }
     }
-
-
-
 }
 
 export { Tag };
